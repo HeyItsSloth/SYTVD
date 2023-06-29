@@ -1,0 +1,16 @@
+{
+    "name": "sytvd",
+    "version": "0.0.1",
+    "description": "A Simple Youtube Video Downloader",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "HeyItsSloth",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "ytdl-core": "^4.9.1"
+    }
+  }
+  
